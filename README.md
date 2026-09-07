@@ -1,8 +1,7 @@
 <div align="center">
 <div align="center">
 
-<table>
-<tr>
+
 
 <td width="280" align="center">
   
